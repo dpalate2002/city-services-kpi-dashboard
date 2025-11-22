@@ -1,0 +1,16 @@
+case_id,created_at,district,category,resolution_time_hours
+100001,2025-08-01T10:00:00,North,Pothole,12.5
+100002,2025-08-01T13:00:00,West,Water,36.0
+100003,2025-08-02T09:00:00,East,Sanitation,20.2
+100004,2025-08-02T18:00:00,Central,Streetlight,5.0
+100005,2025-08-03T11:00:00,South,Parks,8.4
+100006,2025-08-03T16:00:00,North,Sanitation,48.3
+100007,2025-08-04T08:00:00,West,Pothole,72.1
+100008,2025-08-04T15:00:00,East,Water,10.0
+100009,2025-08-05T12:00:00,Central,Pothole,3.2
+100010,2025-08-05T19:00:00,South,Streetlight,96.7
+100011,2025-08-06T07:00:00,North,Parks,7.9
+100012,2025-08-06T21:00:00,West,Sanitation,18.0
+100013,2025-08-07T14:00:00,East,Pothole,22.6
+100014,2025-08-08T10:30:00,Central,Water,44.8
+100015,2025-08-08T18:45:00,South,Streetlight,12.0
